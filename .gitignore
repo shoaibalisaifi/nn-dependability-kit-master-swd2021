@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+__pycache__
+data/*
+!data/frontcardetection
+!data/scenario_coverage
+!data/VOC_examples
+!data/kitti
+local
+bound_nout_*.lp
+propertyBoxedAbstraction.lp
+Exp*.ipynb
+nndependability/metrics/saliency
